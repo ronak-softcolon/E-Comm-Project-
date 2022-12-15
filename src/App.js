@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <h1>E-Comm Project</h1>
       <button>Update button</button>
-      <Button>User Button</Button>
+      <Button>Bootstrap Button</Button>
     </div>
   );
 }
